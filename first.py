@@ -8,6 +8,7 @@ def main():
     print('это я, из сетевого репазитория GitHub')
     print('это я, из локального репазитория PyCharm')
     print()
+    print('это я, опять из сетевого репазитория GitHub')
 
 if __name__ == '__main__':
     main()
