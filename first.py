@@ -3,6 +3,7 @@ def main():
     print('Это я')
     print('Это опять я ')
     print('ха-ха. Это опять я')
+    print('это я, из сетевого репазитория gitHub)
 
 
 if __name__ == '__main__':
